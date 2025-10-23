@@ -10,7 +10,10 @@ int main(){
     prinf("inserisci secondo numero");
     scanf("%f", &B);
     printf("media numeri = %f", A+B/2);
-
+      
+// %f indica un che è possibile inserire un numero decimale
+    
     return 0;
+
 
 } 
