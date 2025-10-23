@@ -9,7 +9,9 @@ printf("somma = %d\n", numero1+numero2 );
 printf("differenza = %d\n", numero1-numero2 );
 printf("prodotto = %d\n", numero1*numero2 );
 printf("divisione = %d\n", numero1/numero2 );
+    // i segni delle varie operazioni sono +, -, *, /
 
 
     return 0;
+
 }
