@@ -9,7 +9,9 @@ int main(){
     scanf("%d", &B);
     printf("somma = %d", A+B);
     printf("prodotto = %d", A*B);
+    // il comando scanf è un imput
 
     return 0;
+
 
 } 
